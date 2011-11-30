@@ -1,0 +1,30 @@
+syntax: glob
+*.hdf
+*.pyc
+*~
+*.o
+*.pyo
+*.nc
+*.pkl
+*.pck
+*.pckl
+*.grd
+*.png
+*.jpg
+*.JPG
+*.JPEG
+*.avi
+*.mpg
+*.st
+*.zip
+*.ZIP
+*.gz
+*.tif
+*build/lib*
+*.git/*
+*/dist/*
+.git*
+roberto*
+
+syntax: regexp
+.*\#.*\#$
